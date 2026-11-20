@@ -14,7 +14,7 @@ $pageTitle = $pageTitle ?? 'VSam Digital Solution | Websites That Grow Your Busi
 
 <link rel="icon"
       type="image/png"
-      href="/freelance-portfolio/assets/image/VS_logo_5.png?v=4">
+      href="/VSam_portfolio/assets/image/VS_logo_5.png?v=4">
 
     <!-- WEBSITE LOGO IN BROWSER TAB -->
     
@@ -40,7 +40,7 @@ $pageTitle = $pageTitle ?? 'VSam Digital Solution | Websites That Grow Your Busi
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top site-nav">
     <div class="container">
         <a class="navbar-brand fw-bold" href="index.php">
-    <img src="/freelance-portfolio/assets/image/VS_logo.png"
+    <img src="/VSam_portfolio/assets/image/VS_logo.png"
          alt="VSam Digital Solution"
          class="brand-logo">
 </a>
